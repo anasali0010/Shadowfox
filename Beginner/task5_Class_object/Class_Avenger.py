@@ -35,4 +35,5 @@ avengers = [av1, av2, av3, av4, av5, av6]
 for av in avengers:
     av.get_info()
     print(av.is_leader())
+    
     print("-" * 20)
